@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/pre-dexed/debug/classes-215cdde383a356a10555143785a140dc5fc9e447.jar" />
+    </item>
+    <item
+        jar="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/pre-dexed/debug/classes-a51d68ec67e33d40b565c6b16c8a7b5d799e065a.jar" />
+    </item>
+    <item
+        jar="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/pre-dexed/debug/classes-4f3390fd0064b4bc585ffe7040c699992628386b.jar" />
+    </item>
+    <item
+        jar="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/pre-dexed/debug/classes-af312d90fcc635e38f244c8fe33bf05c4dff1587.jar" />
+    </item>
+    <item
+        jar="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/pre-dexed/debug/classes-6e66fa55c0aae65249584d201f481c80b7ee9c1a.jar" />
+    </item>
+    <item
+        jar="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/pre-dexed/debug/classes-ef7b5c2bcd95808088fb44b1f04ea794d06b63e7.jar" />
+    </item>
+    <item
+        jar="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/libs/internal_impl-22.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="025cb89f2896c63200ff4c2e6c467a95691d880a">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.0-1cb5bd8ec4dc0e913bc7497b965c20f5fa47906a.jar" />
+    </item>
+    <item
+        jar="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/pre-dexed/debug/classes-fa4b0e26c0c554c2b7d86d7b942aa9d2d3b2210b.jar" />
+    </item>
+    <item
+        jar="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/pre-dexed/debug/classes-d86856b7fd0bc6734e5cc67c6dd51a31902fdb89.jar" />
+    </item>
+    <item
+        jar="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/pre-dexed/debug/classes-b4e0d097f5d023ef035b55408fc0677459ceca1f.jar" />
+    </item>
+    <item
+        jar="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/pre-dexed/debug/classes-590a63db08b086eec8bf4fdbb9a5370084ea07d2.jar" />
+    </item>
+    <item
+        jar="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/pre-dexed/debug/classes-e2d00a2f4144da0e8291090541dfd7bdc73c6118.jar" />
+    </item>
+    <item
+        jar="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/pre-dexed/debug/classes-fa128cd0d18f9811d696b2ea59d3287d5a7216fb.jar" />
+    </item>
+    <item
+        jar="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/pre-dexed/debug/classes-cf24450d18144b8c9462ce8e47ca871745f54fae.jar" />
+    </item>
+    <item
+        jar="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/pre-dexed/debug/classes-bd537bb7f2122d8a2ab45534e53f87b6c958b8c7.jar" />
+    </item>
+    <item
+        jar="/home/chenyikui/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.0/support-annotations-22.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="281bc6c58ecb3644c23fbc5ee0452019f67b4d5d">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.0-65ef84906048f42ac7b3954831b4e12272586841.jar" />
+    </item>
+    <item
+        jar="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/pre-dexed/debug/classes-d75755fd218683e3e604dc2fbec596d80acbb064.jar" />
+    </item>
+    <item
+        jar="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="983e2f375504bc04def18e709c35192afe92e65f">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/pre-dexed/debug/classes-e6cb3c46de67d134091e33df696b02a7f5685eb5.jar" />
+    </item>
+    <item
+        jar="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="eeebabdfd8203f6ab639ccea4ffa1f20e1adee3a">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/pre-dexed/debug/classes-8534a6bae559d6d0af9f7d7c3e5cc3f36c8a6cfe.jar" />
+    </item>
+    <item
+        jar="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/pre-dexed/debug/classes-cc2507ee8978b5794393a7ed510cd91111ed164b.jar" />
+    </item>
+    <item
+        jar="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/pre-dexed/debug/classes-5ef5ae7c6994ef4f36a87ee3a343cd78fcabb4f5.jar" />
+    </item>
+    <item
+        jar="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/pre-dexed/debug/classes-5a262156d4e29dcb08185129ae258484debe246e.jar" />
+    </item>
+    <item
+        jar="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="/home/chenyikui/AndroidstudioProjects/MySocket/app/build/intermediates/pre-dexed/debug/classes-599c3806c1baa2f25622713bbebee11640dba220.jar" />
+    </item>
+
+</items>
